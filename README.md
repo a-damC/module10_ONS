@@ -27,7 +27,8 @@ July 2023 price lists
 [Looking at the price listings of the CPI basket of goods](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindicescpiandretailpricesindexrpiitemindicesandpricequotes) we can look at the different regions of the U.K. and see how the price of basic goods differs.
 There are boxplots for all the goods located [here](https://github.com/a-damC/module10_ONS/tree/main/boxplot_per_item)
 
-The different numbers relate to the following regions:
+The different numbers relate to the following regions [(and can be found here)](https://github.com/a-damC/module10_ONS/blob/main/data/glossaryrevised.xls):
+
 1 = Catalogue collections 
 2 = London
 3 = SE
@@ -41,6 +42,6 @@ The different numbers relate to the following regions:
 11 = Wales
 12 = Scotland
 13 = NI
-![image](https://github.com/a-damC/module10_ONS/assets/67374812/18bfd49b-11d3-4468-9e6e-4dee004fa248)
+
 
 
