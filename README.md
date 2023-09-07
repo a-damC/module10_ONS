@@ -51,6 +51,17 @@ Some interest boxplots are as follows:\
 
 
 
-
+Techniques Practiced and Issues
+-
+During this training I created a heatmap for the first time. This took a long time as I initially tried in R but relented and wrote it in python 
+as I found it hard to loop over the variables I wanted in R.
+\
+I did improve my R skills but I had to relearn a lot as I had not used it for a while and this did hinder any attempts at doing more complex tasks such as ML which I wished to have engaged in.
+\
+I also had to re-setup my Github account and that took some time to figure out how this all worked!!!
+\
+Looking forward to Year2
+\
+Thank you for reading - Adam Crewdson
 
 
