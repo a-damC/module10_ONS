@@ -4,7 +4,7 @@ Visual data on cost of living
 The U.K. has had an issue with inflation for the last couple of years.
 
 
-<a href="/pdfs_main/inflation_last_5_years.pdf" class="image fit" ></a>
+<a href="/pdfs_main/inflation_last_5_years.pdf" class="image fit" >
 
 Looking at the inflation graph </a>we can see the Bank of England's 2% aim was surpassed as the U.K. exited 
 Lockdown measures as demand increased and supply side issues could not keep up. The Russian invasion 
