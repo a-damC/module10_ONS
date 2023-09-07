@@ -45,9 +45,9 @@ The different numbers relate to the following regions [(and can be found here)](
 
 
 Some interest boxplots are as follows:
-[Bread price ranges across the U.K.](https://github.com/a-damC/module10_ONS/blob/main/pdfs_main/breads_july2023_compare.pdf)
-[BLT price ranges across the U.K.](https://github.com/a-damC/module10_ONS/blob/main/pdfs_main/BLT_july2023_compare.pdf)
-[Take-away price ranges across the U.K.](https://github.com/a-damC/module10_ONS/blob/main/pdfs_main/takeaway_july2023_compare.pdf)
+[Bread price ranges across the U.K.](https://github.com/a-damC/module10_ONS/blob/main/pdfs_main/breads_july2023_compare.pdf)\
+[BLT price ranges across the U.K.](https://github.com/a-damC/module10_ONS/blob/main/pdfs_main/BLT_july2023_compare.pdf)\
+[Take-away price ranges across the U.K.](https://github.com/a-damC/module10_ONS/blob/main/pdfs_main/takeaway_july2023_compare.pdf)\
 
 
 
