@@ -3,6 +3,8 @@ Visual data on cost of living
 
 The U.K. has had an issue with inflation for the last couple of years.
 
+<object data="/pdfs_main/inflation_last_5_years.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 <a href="/pdfs_main/inflation_last_5_years.pdf" class="image fit" >
 
 Looking at the inflation graph we can see the Bank of England's 2% aim was surpassed as the U.K. exited 
