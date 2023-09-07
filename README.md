@@ -6,7 +6,7 @@ The U.K. has had an issue with inflation for the last couple of years.
 
 <a href="/pdfs_main/inflation_last_5_years.pdf" class="image fit" ></a>
 
-Looking at the inflation graph we can see the Bank of England's 2% aim was surpassed as the U.K. exited 
+Looking at the inflation graph </a>we can see the Bank of England's 2% aim was surpassed as the U.K. exited 
 Lockdown measures as demand increased and supply side issues could not keep up. The Russian invasion 
 of Ukraine compounded inflation problems as energy and grain resources became reduced due to embargoes 
 placed on Russia and the decimation of the Ukrainian grain trade routes.
