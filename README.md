@@ -29,22 +29,28 @@ There are boxplots for all the goods located [here](https://github.com/a-damC/mo
 
 The different numbers relate to the following regions [(and can be found here)](https://github.com/a-damC/module10_ONS/blob/main/data/glossaryrevised.xls):
 
-1 = Catalogue collections
-2 = London
-3 = SE
-4 = SW
-5 = East Anglia
-6 = East Midlands
-7  = West Midlands
-8 = Yorks & Humber
-9 = NW
-10 = North
-11 = Wales
-12 = Scotland
-13 = NI
+1 = Catalogue collections\
+2 = London\
+3 = SE\
+4 = SW\
+5 = East Anglia\
+6 = East Midlands\
+7  = West Midlands\
+8 = Yorks & Humber\
+9 = NW\
+10 = North\
+11 = Wales\
+12 = Scotland\
+13 = NI\
 
 
 Some interest boxplots are as follows:
+[Bread price ranges across the U.K.](https://github.com/a-damC/module10_ONS/blob/main/pdfs_main/breads_july2023_compare.pdf)
+[BLT price ranges across the U.K.](https://github.com/a-damC/module10_ONS/blob/main/pdfs_main/BLT_july2023_compare.pdf)
+[Take-away price ranges across the U.K.](https://github.com/a-damC/module10_ONS/blob/main/pdfs_main/takeaway_july2023_compare.pdf)
+
+
+
 
 
 
