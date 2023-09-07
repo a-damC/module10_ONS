@@ -3,7 +3,7 @@ Visual data on cost of living
 
 The U.K. has had an issue with inflation for the last couple of years.
 
-<object data="/pdfs_main/inflation_last_5_years.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/pdfs_main/inflation_last_5_years.pdf" width="1000" height="1000"></object>
 
 <a href="/pdfs_main/inflation_last_5_years.pdf" class="image fit" >
 
