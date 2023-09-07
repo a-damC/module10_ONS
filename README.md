@@ -29,7 +29,7 @@ There are boxplots for all the goods located [here](https://github.com/a-damC/mo
 
 The different numbers relate to the following regions [(and can be found here)](https://github.com/a-damC/module10_ONS/blob/main/data/glossaryrevised.xls):
 
-1 = Catalogue collections \n
+1 = Catalogue collections
 2 = London
 3 = SE
 4 = SW
@@ -42,6 +42,9 @@ The different numbers relate to the following regions [(and can be found here)](
 11 = Wales
 12 = Scotland
 13 = NI
+
+
+Some interest boxplots are as follows:
 
 
 
