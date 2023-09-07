@@ -1,0 +1,24 @@
+july2023_price_quotes <- readr::read_csv('upload-pricequotes202307.csv')
+july2023_price_quotes$ITEM_ID <- as.factor(july2023_price_quotes$ITEM_ID)
+july2023_price_quotes$REGION <- as.factor(july2023_price_quotes$REGION)
+july2023_price_quotes$SHOP_CODE <- as.factor(july2023_price_quotes$SHOP_CODE)
+july2023_price_quotes$SHOP_TYPE <- as.factor(july2023_price_quotes$SHOP_TYPE)
+july2023_price_quotes$ITEM_DESC <- make_clean_names(july2023_price_quotes$ITEM_DESC, allow_dupes = TRUE)
+
+different_items <- unique(july2023_price_quotes$ITEM_DESC)
+
+for(i in different_items){
+    subset_data_by_item <- subset(july2023_price_quotes, july2023_price_quotes$ITEM_DESC == i & july2023_price_quotes$PRICE > 0)
+    glimpse(subset_data_by_item)
+    boxplot_item <- ggplot(subset_data_by_item, mapping = aes(x = REGION,
+                                              y = PRICE,
+                                              fill = REGION)) +
+        geom_boxplot() +
+        labs(title = paste0(i),
+             caption = "From ONS CPI data July 2023",
+             x = '',
+             y = "Price(£)")
+        
+    ggsave(filename = paste0("./boxplot_per_item/",i,"_boxplot.pdf"), device = 'pdf', plot = boxplot_item)
+        
+}
